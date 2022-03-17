@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9Cc87686B7412B4EFa7b44260F0E99F4170F1b33",
+  "SCAN_LINK": "https://polygonscan.com/token/0x9cc87686b7412b4efa7b44260f0e99f4170f1b33",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cool Ducks",
+  "SYMBOL": "COOLDUCKS",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/coolducksgang",
+  "SHOW_BACKGROUND": true
+}
