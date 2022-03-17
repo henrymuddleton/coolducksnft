@@ -12,7 +12,7 @@
   "WEI_COST": 2000000000000000000,
   "DISPLAY_COST": 2,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/coolducksgang",
   "SHOW_BACKGROUND": true
 }
